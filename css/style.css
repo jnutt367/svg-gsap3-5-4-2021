@@ -23,3 +23,7 @@ html {
     left: -4em;
     z-index: 0;
 }
+
+#surfer {
+    width: 3em;
+}
