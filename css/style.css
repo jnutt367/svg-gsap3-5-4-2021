@@ -1,0 +1,19 @@
+#city {
+    position: relative;
+    z-index: 0;
+}
+
+#guy {
+    position: relative;
+    width: 5em;
+    top: -30em;
+    left: 1em;
+}
+
+#red-car {
+    position: relative;
+    width: 11em;
+    top: -41.2em;
+    left: -4em;
+    z-index: 0;
+}
