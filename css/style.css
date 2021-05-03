@@ -1,19 +1,25 @@
+html {
+    position: absolute;
+}
+
 #city {
     position: relative;
+    display: grid;
     z-index: 0;
+    width: 100vw;
 }
 
 #guy {
     position: relative;
-    width: 5em;
-    top: -30em;
+    width: 3em;
+    top: -41.5em;
     left: 1em;
 }
 
 #red-car {
     position: relative;
-    width: 11em;
-    top: -41.2em;
+    width: 9.5em;
+    top: -40em;
     left: -4em;
     z-index: 0;
 }
