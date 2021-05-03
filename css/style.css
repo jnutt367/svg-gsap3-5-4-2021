@@ -4,7 +4,6 @@ html {
 
 #city {
     position: relative;
-    display: grid;
     z-index: 0;
     width: 100vw;
 }
@@ -33,7 +32,7 @@ html {
     z-index: 5;
 }
 
-@media (min-width: 333px) {
+@media (min-width:500px) {
     #guy {
         display: none;
     }
