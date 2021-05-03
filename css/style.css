@@ -12,14 +12,14 @@ html {
 #guy {
     position: relative;
     width: 3em;
-    top: -41.5em;
+    top: -43em;
     left: 1em;
 }
 
 #red-car {
     position: relative;
     width: 9.5em;
-    top: -40em;
+    top: -41.4em;
     left: -4em;
     z-index: 0;
 }
