@@ -24,7 +24,8 @@ html {
 }
 
 #surfer {
-    width: 3em;
+    position: relative;
+    width: 5em;
 }
 
 .cls-34 {
@@ -32,11 +33,15 @@ html {
     z-index: 5;
 }
 
-@media (min-width:500px) {
+@media (min-width:320px) {
     #guy {
         display: none;
     }
     #red-car {
         display: none;
+    }
+    #surfer {
+        position: relative;
+        width: 14em;
     }
 }
